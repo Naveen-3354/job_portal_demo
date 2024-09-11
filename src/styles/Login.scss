@@ -1,0 +1,121 @@
+#login {
+    nav {
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 16%;
+        border-bottom: 1px solid rgb(148, 148, 148);
+
+        h2 {
+            color: rgb(167, 19, 230)
+        }
+
+        ;
+
+
+        button {
+            height: 35px;
+            background-color: #FC5912;
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            color: white;
+            display: flex;
+            align-items: center;
+            font-weight: bold;
+
+            img {
+                height: 15px;
+                padding-right: 5px;
+            }
+        }
+    }
+
+
+    .content {
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-evenly;
+
+        .left {
+            p{
+                text-align: center;
+                width: 70%;
+            }
+        }
+
+        .right {
+            width:30%;
+            .oauth{
+                display: flex;
+                justify-content: space-evenly;
+                .lable{
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                    img{
+                        height: 20px;
+                    }
+                }
+            }
+
+            .or{
+                display: flex;
+                align-items: center;
+
+                hr{
+                    height: 0;
+                    width: 100%;
+                    background-color: gray;
+                }
+
+                p{
+                    color: gray;
+                    padding: 0 20px;
+                }
+            }
+
+            form{
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+
+                label{
+                    font-size: 12px;
+                    
+                }
+                input{
+                    padding: 15px;
+                    border-radius: 10px;
+                    border: 1px solid lightgray;
+                    font-size: 15px;
+                }
+
+                input:focus{
+                    outline: none;
+                }
+
+                button{
+                    padding:20px;
+                    color: white;
+                    background-color: rgb(183, 33, 253);
+                    border: none;
+                    border-radius: 5px;font-weight: bolder;
+                    opacity: 0.5;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 800px) {
+        .content{
+            .left{
+                display: none;
+            }
+            .right{
+                width: 90%;
+            }
+        }
+    }
+}

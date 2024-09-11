@@ -1,0 +1,1344 @@
+[
+  {
+    "title": "Java Developer",
+    "company": "Tech Giants Inc.",
+    "experience ": 4,
+    "skills": [
+      "Java",
+      "Spring",
+      "Hibernate"
+    ],
+    "description": "Develop and maintain Java-based applications and services.",
+    "location": "Pune",
+    "id": 1
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudNet Solutions",
+    "experience ": 3,
+    "skills": [
+      "AWS",
+      "Terraform",
+      "CI/CD"
+    ],
+    "description": "Automate and manage deployment processes and infrastructure.",
+    "location": "Ahmedabad",
+    "id": 2
+  },
+  {
+    "title": "iOS Developer",
+    "company": "AppMasters Ltd.",
+    "experience ": 4,
+    "skills": [
+      "Swift",
+      "Xcode",
+      "iOS SDK"
+    ],
+    "description": "Build and maintain iOS applications for Apple devices.",
+    "location": "Delhi",
+    "id": 3
+  },
+  {
+    "title": "Android Developer",
+    "company": "Mobile Wizards",
+    "experience ": 3,
+    "skills": [
+      "Kotlin",
+      "Android Studio",
+      "Java"
+    ],
+    "description": "Develop and optimize Android applications for various devices.",
+    "location": "Pune",
+    "id": 4
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "Web Visionaries",
+    "experience ": 3,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux"
+    ],
+    "description": "Create and enhance user interfaces for web applications.",
+    "location": "Pune",
+    "id": 5
+  },
+  {
+    "title": "Back-End Developer",
+    "company": "ServerWorks",
+    "experience ": 4,
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "description": "Develop server-side logic and database interactions.",
+    "location": "Hyderabad",
+    "id": 6
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet Inc.",
+    "experience ": 5,
+    "skills": [
+      "Penetration Testing",
+      "Firewalls",
+      "Intrusion Detection"
+    ],
+    "description": "Protect systems and networks from cyber threats and attacks.",
+    "location": "Surat",
+    "id": 7
+  },
+  {
+    "title": "Cloud Architect",
+    "company": "CloudXperts Ltd.",
+    "experience ": 6,
+    "skills": [
+      "AWS",
+      "Azure",
+      "Cloud Migration"
+    ],
+    "description": "Design and implement cloud infrastructure solutions.",
+    "location": "Hyderabad",
+    "id": 8
+  },
+  {
+    "title": "AI Engineer",
+    "company": "AI Innovations",
+    "experience ": 4,
+    "skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Python"
+    ],
+    "description": "Develop and implement artificial intelligence models and solutions.",
+    "location": "Surat",
+    "id": 9
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Business Insights Co.",
+    "experience ": 3,
+    "skills": [
+      "Business Analysis",
+      "Data Modeling",
+      "Requirements Gathering"
+    ],
+    "description": "Analyze business needs and provide data-driven solutions.",
+    "location": "Kolkata",
+    "id": 10
+  },
+  {
+    "title": "Product Designer",
+    "company": "Design Revolution",
+    "experience ": 4,
+    "skills": [
+      "Sketch",
+      "Prototyping",
+      "User Experience"
+    ],
+    "description": "Design and prototype user-centered products and features.",
+    "location": "Jaipur",
+    "id": 11
+  },
+  {
+    "title": "Sales Executive",
+    "company": "SalesForce Ltd.",
+    "experience ": 2,
+    "skills": [
+      "Sales Strategies",
+      "Client Engagement",
+      "Negotiation"
+    ],
+    "description": "Drive sales and build relationships with clients.",
+    "location": "Surat",
+    "id": 12
+  },
+  {
+    "title": "Digital Marketing Manager",
+    "company": "Market Leaders Inc.",
+    "experience ": 5,
+    "skills": [
+      "SEO",
+      "PPC",
+      "Content Strategy"
+    ],
+    "description": "Develop and execute digital marketing campaigns to boost brand presence.",
+    "location": "Jaipur",
+    "id": 13
+  },
+  {
+    "title": "HR Manager",
+    "company": "PeoplePlus",
+    "experience ": 5,
+    "skills": [
+      "Talent Acquisition",
+      "Employee Relations",
+      "HR Policies"
+    ],
+    "description": "Manage HR functions and ensure effective recruitment and employee management.",
+    "location": "Jaipur",
+    "id": 14
+  },
+  {
+    "title": "Content Strategist",
+    "company": "Content Masters",
+    "experience ": 4,
+    "skills": [
+      "Content Planning",
+      "SEO",
+      "Editorial Strategy"
+    ],
+    "description": "Develop and manage content strategies to engage target audiences.",
+    "location": "Delhi",
+    "id": 15
+  },
+  {
+    "title": "E-commerce Manager",
+    "company": "ShopEasy Inc.",
+    "experience ": 4,
+    "skills": [
+      "E-commerce Platforms",
+      "Digital Marketing",
+      "Sales Optimization"
+    ],
+    "description": "Oversee and optimize online sales strategies and operations.",
+    "location": "Jaipur",
+    "id": 16
+  },
+  {
+    "title": "Software Tester",
+    "company": "Quality Assurance Ltd.",
+    "experience ": 3,
+    "skills": [
+      "Manual Testing",
+      "Automation Tools",
+      "Bug Tracking"
+    ],
+    "description": "Test software applications to identify and resolve defects.",
+    "location": "Ahmedabad",
+    "id": 17
+  },
+  {
+    "title": "Operations Analyst",
+    "company": "Operational Insights",
+    "experience ": 3,
+    "skills": [
+      "Data Analysis",
+      "Process Improvement",
+      "Reporting"
+    ],
+    "description": "Analyze operational processes and provide recommendations for improvement.",
+    "location": "Bangalore",
+    "id": 18
+  },
+  {
+    "title": "Research Scientist",
+    "company": "Innovative Research Co.",
+    "experience ": 5,
+    "skills": [
+      "Research Methods",
+      "Data Analysis",
+      "Scientific Writing"
+    ],
+    "description": "Conduct research and experiments to advance scientific knowledge.",
+    "location": "Delhi",
+    "id": 19
+  },
+  {
+    "title": "Technical Writer",
+    "company": "TechDocs Ltd.",
+    "experience ": 3,
+    "skills": [
+      "Technical Documentation",
+      "Editing",
+      "Research"
+    ],
+    "description": "Create clear and concise technical documentation for software and hardware.",
+    "location": "Bangalore",
+    "id": 20
+  },
+  {
+    "title": "Database Developer",
+    "company": "DataWorks Inc.",
+    "experience ": 4,
+    "skills": [
+      "SQL",
+      "Database Design",
+      "Stored Procedures"
+    ],
+    "description": "Design and implement database systems to support applications.",
+    "location": "Surat",
+    "id": 21
+  },
+  {
+    "title": "Systems Engineer",
+    "company": "SystemsPlus",
+    "experience ": 4,
+    "skills": [
+      "Systems Integration",
+      "Troubleshooting",
+      "Automation"
+    ],
+    "description": "Design, implement, and maintain complex systems and infrastructure.",
+    "location": "Hyderabad",
+    "id": 22
+  },
+  {
+    "title": "UI Developer",
+    "company": "User Interface Co.",
+    "experience ": 3,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Develop user interfaces and ensure optimal user experiences.",
+    "location": "Delhi",
+    "id": 23
+  },
+  {
+    "title": "Software Architect",
+    "company": "Architecture Solutions",
+    "experience ": 6,
+    "skills": [
+      "System Design",
+      "Architecture Patterns",
+      "Technical Leadership"
+    ],
+    "description": "Design and guide the architecture of software systems.",
+    "location": "Kolkata",
+    "id": 24
+  },
+  {
+    "title": "Video Editor",
+    "company": "Media Productions Ltd.",
+    "experience ": 3,
+    "skills": [
+      "Adobe Premiere",
+      "Final Cut Pro",
+      "Video Editing"
+    ],
+    "description": "Edit and produce video content for various platforms.",
+    "location": "Bangalore",
+    "id": 25
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Quality Assurance Labs",
+    "experience ": 4,
+    "skills": [
+      "Automated Testing",
+      "Test Scripts",
+      "Bug Tracking"
+    ],
+    "description": "Develop and execute test plans to ensure software quality.",
+    "location": "Kolkata",
+    "id": 26
+  },
+  {
+    "title": "Network Administrator",
+    "company": "NetSecure Inc.",
+    "experience ": 4,
+    "skills": [
+      "Network Configuration",
+      "Troubleshooting",
+      "Firewalls"
+    ],
+    "description": "Manage and maintain network systems to ensure reliable connectivity.",
+    "location": "Surat",
+    "id": 27
+  },
+  {
+    "title": "Application Support Analyst",
+    "company": "Support Solutions Ltd.",
+    "experience ": 3,
+    "skills": [
+      "Application Support",
+      "Troubleshooting",
+      "Client Interaction"
+    ],
+    "description": "Provide support for applications and resolve technical issues.",
+    "location": "Kolkata",
+    "id": 28
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "CloudScape Inc.",
+    "experience ": 4,
+    "skills": [
+      "Cloud Platforms",
+      "Infrastructure as Code",
+      "DevOps"
+    ],
+    "description": "Design and manage cloud-based solutions and infrastructure.",
+    "location": "Mumbai",
+    "id": 29
+  },
+  {
+    "title": "UX Researcher",
+    "company": "User Experience Labs",
+    "experience ": 3,
+    "skills": [
+      "User Research",
+      "Usability Testing",
+      "Data Analysis"
+    ],
+    "description": "Conduct research to understand user needs and improve product design.",
+    "location": "Jaipur",
+    "id": 30
+  },
+  {
+    "title": "Front-End Engineer",
+    "company": "Innovative Web Solutions",
+    "experience ": 3,
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "description": "Develop and enhance the front-end of web applications.",
+    "location": "Jaipur",
+    "id": 31
+  },
+  {
+    "title": "Back-End Engineer",
+    "company": "TechCore Ltd.",
+    "experience ": 4,
+    "skills": [
+      "Node.js",
+      "Express",
+      "Database Management"
+    ],
+    "description": "Build and maintain server-side applications and APIs.",
+    "location": "Delhi",
+    "id": 32
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "BI Insights Co.",
+    "experience ": 4,
+    "skills": [
+      "Data Visualization",
+      "SQL",
+      "Analytics"
+    ],
+    "description": "Analyze data and create reports to support business decision-making.",
+    "location": "Bangalore",
+    "id": 33
+  },
+  {
+    "title": "IT Manager",
+    "company": "IT Solutions Ltd.",
+    "experience ": 5,
+    "skills": [
+      "IT Management",
+      "Project Management",
+      "Team Leadership"
+    ],
+    "description": "Manage IT projects and teams to ensure effective technology solutions.",
+    "location": "Mumbai",
+    "id": 34
+  },
+  {
+    "title": "SEO Specialist",
+    "company": "SEO Experts Inc.",
+    "experience ": 3,
+    "skills": [
+      "SEO",
+      "Keyword Research",
+      "Content Optimization"
+    ],
+    "description": "Optimize website content to improve search engine rankings.",
+    "location": "Delhi",
+    "id": 35
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "Design Masters",
+    "experience ": 2,
+    "skills": [
+      "Adobe Creative Suite",
+      "Branding",
+      "Illustration"
+    ],
+    "description": "Create visual content for digital and print media.",
+    "location": "Bangalore",
+    "id": 36
+  },
+  {
+    "title": "Systems Administrator",
+    "company": "Admin Solutions Ltd.",
+    "experience ": 4,
+    "skills": [
+      "System Maintenance",
+      "Network Administration",
+      "Security"
+    ],
+    "description": "Maintain and support IT systems and infrastructure.",
+    "location": "Delhi",
+    "id": 37
+  },
+  {
+    "title": "Salesforce Developer",
+    "company": "Salesforce Experts",
+    "experience ": 4,
+    "skills": [
+      "Salesforce",
+      "Apex",
+      "Visualforce"
+    ],
+    "description": "Develop and customize Salesforce applications to meet business needs.",
+    "location": "Surat",
+    "id": 38
+  },
+  {
+    "title": "Virtual Assistant",
+    "company": "Remote Assist",
+    "experience ": 2,
+    "skills": [
+      "Administrative Support",
+      "Communication",
+      "Time Management"
+    ],
+    "description": "Provide administrative and support services remotely.",
+    "location": "Ahmedabad",
+    "id": 39
+  },
+  {
+    "title": "Web Developer",
+    "company": "WebCraft Ltd.",
+    "experience ": 3,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design"
+    ],
+    "description": "Develop and maintain websites with a focus on performance and user experience.",
+    "location": "Delhi",
+    "id": 40
+  },
+  {
+    "title": "Database Administrator",
+    "company": "DB Solutions Inc.",
+    "experience ": 4,
+    "skills": [
+      "SQL Server",
+      "Database Security",
+      "Performance Tuning"
+    ],
+    "description": "Manage and optimize database systems to ensure high performance and security.",
+    "location": "Surat",
+    "id": 41
+  },
+  {
+    "title": "Creative Director",
+    "company": "Creative Minds Ltd.",
+    "experience ": 6,
+    "skills": [
+      "Creative Vision",
+      "Project Management",
+      "Team Leadership"
+    ],
+    "description": "Lead and direct creative projects and teams to achieve artistic goals.",
+    "location": "Pune",
+    "id": 42
+  },
+  {
+    "title": "Financial Planner",
+    "company": "Finance Pros Inc.",
+    "experience ": 5,
+    "skills": [
+      "Financial Planning",
+      "Investment Strategies",
+      "Client Relations"
+    ],
+    "description": "Provide financial planning and advisory services to clients.",
+    "location": "Bangalore",
+    "id": 43
+  },
+  {
+    "title": "Web Analyst",
+    "company": "Web Insights Co.",
+    "experience ": 3,
+    "skills": [
+      "Web Analytics",
+      "Data Analysis",
+      "Reporting"
+    ],
+    "description": "Analyze web traffic and user behavior to optimize website performance.",
+    "location": "Mumbai",
+    "id": 44
+  },
+  {
+    "title": "Digital Content Creator",
+    "company": "Content Creators Hub",
+    "experience ": 2,
+    "skills": [
+      "Content Creation",
+      "Social Media",
+      "Video Editing"
+    ],
+    "description": "Create engaging digital content for social media and other platforms.",
+    "location": "Bangalore",
+    "id": 45
+  },
+  {
+    "title": "Instructional Designer",
+    "company": "EduTech Solutions",
+    "experience ": 4,
+    "skills": [
+      "Instructional Design",
+      "eLearning",
+      "Content Development"
+    ],
+    "description": "Design and develop educational materials and training programs.",
+    "location": "Surat",
+    "id": 46
+  },
+  {
+    "title": "Project Manager",
+    "company": "Project Masters",
+    "experience ": 5,
+    "skills": [
+      "Project Management",
+      "Stakeholder Management",
+      "Risk Management"
+    ],
+    "description": "Lead and manage projects from initiation to completion.",
+    "location": "Delhi",
+    "id": 47
+  },
+  {
+    "title": "Market Research Analyst",
+    "company": "Market Insights Ltd.",
+    "experience ": 3,
+    "skills": [
+      "Market Research",
+      "Data Analysis",
+      "Reporting"
+    ],
+    "description": "Conduct market research and analyze data to provide insights and recommendations.",
+    "location": "Jaipur",
+    "id": 48
+  },
+  {
+    "title": "Product Marketing Manager",
+    "company": "Marketing Innovators",
+    "experience ": 5,
+    "skills": [
+      "Product Marketing",
+      "Campaign Management",
+      "Market Strategy"
+    ],
+    "description": "Develop and execute marketing strategies for product launches and promotions.",
+    "location": "Chennai",
+    "id": 49
+  },
+  {
+    "title": "Technical Project Manager",
+    "company": "Tech Projects Ltd.",
+    "experience ": 6,
+    "skills": [
+      "Technical Project Management",
+      "Team Coordination",
+      "Agile"
+    ],
+    "description": "Manage technical projects, ensuring timely delivery and technical excellence.",
+    "location": "Delhi",
+    "id": 50
+  },
+  {
+    "title": "Content Editor",
+    "company": "Edit Masters",
+    "experience ": 3,
+    "skills": [
+      "Content Editing",
+      "Proofreading",
+      "Writing"
+    ],
+    "description": "Edit and proofread content to ensure accuracy and quality.",
+    "location": "Bangalore",
+    "id": 51
+  },
+  {
+    "title": "Customer Success Manager",
+    "company": "Success Partners",
+    "experience ": 4,
+    "skills": [
+      "Customer Success",
+      "Account Management",
+      "Problem Solving"
+    ],
+    "description": "Ensure customer satisfaction and success with the company's products and services.",
+    "location": "Surat",
+    "id": 52
+  },
+  {
+    "title": "Cloud Security Specialist",
+    "company": "SecureCloud Inc.",
+    "experience ": 5,
+    "skills": [
+      "Cloud Security",
+      "Risk Management",
+      "Compliance"
+    ],
+    "description": "Manage and implement cloud security measures to protect data and infrastructure.",
+    "location": "Jaipur",
+    "id": 53
+  },
+  {
+    "title": "Field Sales Representative",
+    "company": "SalesForce Solutions",
+    "experience ": 2,
+    "skills": [
+      "Sales",
+      "Client Acquisition",
+      "Negotiation"
+    ],
+    "description": "Generate new business and build relationships with clients in the field.",
+    "location": "Pune",
+    "id": 54
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Data Engineering Co.",
+    "experience ": 4,
+    "skills": [
+      "Data Pipelines",
+      "ETL",
+      "SQL"
+    ],
+    "description": "Design and maintain data pipelines and systems for data processing and analysis.",
+    "location": "Delhi",
+    "id": 55
+  },
+  {
+    "title": "IT Consultant",
+    "company": "Consulting Experts Ltd.",
+    "experience ": 5,
+    "skills": [
+      "IT Consulting",
+      "Business Analysis",
+      "Technology Solutions"
+    ],
+    "description": "Provide IT consulting services to help businesses improve their technology infrastructure.",
+    "location": "Kolkata",
+    "id": 56
+  },
+  {
+    "title": "Digital Designer",
+    "company": "Digital Creatives",
+    "experience ": 3,
+    "skills": [
+      "Graphic Design",
+      "UI Design",
+      "Digital Media"
+    ],
+    "description": "Create digital designs for web and mobile platforms.",
+    "location": "Bangalore",
+    "id": 57
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Data Solutions Co.",
+    "experience ": 3,
+    "skills": [
+      "Data Analysis",
+      "Excel",
+      "SQL"
+    ],
+    "description": "Analyze and interpret data to support business decision-making.",
+    "location": "Mumbai",
+    "id": 58
+  },
+  {
+    "title": "HR Business Partner",
+    "company": "HR Solutions Ltd.",
+    "experience ": 5,
+    "skills": [
+      "HR Strategy",
+      "Employee Relations",
+      "Change Management"
+    ],
+    "description": "Partner with business units to align HR practices with business goals.",
+    "location": "Hyderabad",
+    "id": 59
+  },
+  {
+    "title": "Customer Service Manager",
+    "company": "Service Excellence",
+    "experience ": 4,
+    "skills": [
+      "Customer Service",
+      "Team Management",
+      "Process Improvement"
+    ],
+    "description": "Manage customer service operations and improve service delivery.",
+    "location": "Surat",
+    "id": 60
+  },
+  {
+    "title": "Video Producer",
+    "company": "VideoWorks Inc.",
+    "experience ": 3,
+    "skills": [
+      "Video Production",
+      "Storytelling",
+      "Editing"
+    ],
+    "description": "Produce and oversee video content creation from concept to final production.",
+    "location": "Chennai",
+    "id": 61
+  },
+  {
+    "title": "ERP Consultant",
+    "company": "ERP Solutions Ltd.",
+    "experience ": 4,
+    "skills": [
+      "ERP Systems",
+      "Business Processes",
+      "Implementation"
+    ],
+    "description": "Consult on the implementation and optimization of ERP systems for clients.",
+    "location": "Chennai",
+    "id": 62
+  },
+  {
+    "title": "Web Content Manager",
+    "company": "Content Management Co.",
+    "experience ": 3,
+    "skills": [
+      "Content Management",
+      "SEO",
+      "Web Publishing"
+    ],
+    "description": "Manage and optimize content on websites to improve engagement and SEO.",
+    "location": "Bangalore",
+    "id": 63
+  },
+  {
+    "title": "SEO Analyst",
+    "company": "SEO Experts Ltd.",
+    "experience ": 3,
+    "skills": [
+      "SEO Analysis",
+      "Keyword Research",
+      "Content Strategy"
+    ],
+    "description": "Analyze and optimize website SEO performance and strategies.",
+    "location": "Pune",
+    "id": 64
+  },
+  {
+    "title": "Application Developer",
+    "company": "AppDev Solutions",
+    "experience ": 4,
+    "skills": [
+      "App Development",
+      "Mobile Platforms",
+      "API Integration"
+    ],
+    "description": "Develop and maintain applications for mobile and web platforms.",
+    "location": "Jaipur",
+    "id": 65
+  },
+  {
+    "title": "Marketing Coordinator",
+    "company": "Marketing Dynamics",
+    "experience ": 2,
+    "skills": [
+      "Marketing Campaigns",
+      "Event Planning",
+      "Content Creation"
+    ],
+    "description": "Coordinate marketing activities and campaigns to promote the brand.",
+    "location": "Kolkata",
+    "id": 66
+  },
+  {
+    "title": "Business Development Executive",
+    "company": "Growth Ventures",
+    "experience ": 3,
+    "skills": [
+      "Business Development",
+      "Lead Generation",
+      "Client Relationship"
+    ],
+    "description": "Identify and develop new business opportunities to drive growth.",
+    "location": "Jaipur",
+    "id": 67
+  },
+  {
+    "title": "Social Media Manager",
+    "company": "Social Media Experts",
+    "experience ": 3,
+    "skills": [
+      "Social Media Strategy",
+      "Content Creation",
+      "Analytics"
+    ],
+    "description": "Develop and manage social media strategies and content.",
+    "location": "Jaipur",
+    "id": 68
+  },
+  {
+    "title": "Cloud Operations Manager",
+    "company": "CloudOps Ltd.",
+    "experience ": 5,
+    "skills": [
+      "Cloud Operations",
+      "Infrastructure Management",
+      "Cost Optimization"
+    ],
+    "description": "Oversee cloud operations and optimize cloud resource usage.",
+    "location": "Pune",
+    "id": 69
+  },
+  {
+    "title": "Graphic Artist",
+    "company": "Artistic Visions",
+    "experience ": 3,
+    "skills": [
+      "Graphic Design",
+      "Illustration",
+      "Adobe Creative Suite"
+    ],
+    "description": "Create artistic visuals for digital and print media.",
+    "location": "Jaipur",
+    "id": 70
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "Tech Support Co.",
+    "experience ": 2,
+    "skills": [
+      "Technical Support",
+      "Troubleshooting",
+      "Customer Service"
+    ],
+    "description": "Provide technical support and resolve IT-related issues.",
+    "location": "Hyderabad",
+    "id": 71
+  },
+  {
+    "title": "Recruitment Specialist",
+    "company": "Recruitment Solutions",
+    "experience ": 3,
+    "skills": [
+      "Recruitment",
+      "Talent Acquisition",
+      "Interviewing"
+    ],
+    "description": "Manage the recruitment process and attract top talent.",
+    "location": "Jaipur",
+    "id": 72
+  },
+  {
+    "title": "Operations Director",
+    "company": "Operational Excellence Ltd.",
+    "experience ": 7,
+    "skills": [
+      "Operations Management",
+      "Strategic Planning",
+      "Leadership"
+    ],
+    "description": "Lead and oversee operational strategies and processes.",
+    "location": "Hyderabad",
+    "id": 73
+  },
+  {
+    "title": "IT Systems Analyst",
+    "company": "Tech Analysts Inc.",
+    "experience ": 4,
+    "skills": [
+      "Systems Analysis",
+      "Requirements Gathering",
+      "IT Solutions"
+    ],
+    "description": "Analyze and optimize IT systems and processes.",
+    "location": "Kolkata",
+    "id": 74
+  },
+  {
+    "title": "Customer Experience Manager",
+    "company": "Experience Excellence",
+    "experience ": 5,
+    "skills": [
+      "Customer Experience",
+      "Service Improvement",
+      "Customer Feedback"
+    ],
+    "description": "Enhance the overall customer experience through effective strategies and improvements.",
+    "location": "Hyderabad",
+    "id": 75
+  },
+  {
+    "title": "Web Marketing Specialist",
+    "company": "Marketing Web Co.",
+    "experience ": 3,
+    "skills": [
+      "Web Marketing",
+      "SEO",
+      "PPC"
+    ],
+    "description": "Implement and manage web marketing strategies to drive traffic and conversions.",
+    "location": "Chennai",
+    "id": 76
+  },
+  {
+    "title": "Financial Controller",
+    "company": "Finance Control Ltd.",
+    "experience ": 6,
+    "skills": [
+      "Financial Reporting",
+      "Budget Management",
+      "Accounting"
+    ],
+    "description": "Oversee financial operations and ensure accurate financial reporting.",
+    "location": "Surat",
+    "id": 77
+  },
+  {
+    "title": "AI Research Scientist",
+    "company": "AI Lab Inc.",
+    "experience ": 5,
+    "skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Research"
+    ],
+    "description": "Conduct research and develop AI models and technologies.",
+    "location": "Hyderabad",
+    "id": 78
+  },
+  {
+    "title": "Email Marketing Manager",
+    "company": "Email Campaigns Co.",
+    "experience ": 4,
+    "skills": [
+      "Email Marketing",
+      "Campaign Management",
+      "Analytics"
+    ],
+    "description": "Manage and optimize email marketing campaigns for better engagement and conversions.",
+    "location": "Jaipur",
+    "id": 79
+  },
+  {
+    "title": "Product Owner",
+    "company": "Product Experts Ltd.",
+    "experience ": 5,
+    "skills": [
+      "Product Ownership",
+      "Agile",
+      "Stakeholder Management"
+    ],
+    "description": "Own and prioritize product features and work with teams to deliver value.",
+    "location": "Hyderabad",
+    "id": 80
+  },
+  {
+    "title": "Supply Chain Manager",
+    "company": "Supply Chain Solutions",
+    "experience ": 5,
+    "skills": [
+      "Supply Chain Management",
+      "Logistics",
+      "Vendor Management"
+    ],
+    "description": "Manage and optimize supply chain processes and vendor relationships.",
+    "location": "Chennai",
+    "id": 81
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Tech Innovations Inc.",
+    "experience ": 3,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "description": "Develop and maintain web applications using modern technologies.",
+    "location": "Jaipur",
+    "id": 82
+  },
+  {
+    "title": "Product Manager",
+    "company": "Creative Solutions Ltd.",
+    "experience ": 5,
+    "skills": [
+      "Product Development",
+      "Agile",
+      "Market Analysis"
+    ],
+    "description": "Oversee the product lifecycle from conception to launch.",
+    "location": "Jaipur",
+    "id": 83
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Data Insights Corp.",
+    "experience ": 4,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "description": "Analyze complex data sets to provide actionable insights.",
+    "location": "Ahmedabad",
+    "id": 84
+  },
+  {
+    "title": "UX/UI Designer",
+    "company": "Design Co.",
+    "experience ": 3,
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "User Research"
+    ],
+    "description": "Design intuitive and user-friendly interfaces for web and mobile applications.",
+    "location": "Chennai",
+    "id": 85
+  },
+  {
+    "title": "Marketing Specialist",
+    "company": "Brand Builders LLC",
+    "experience ": 2,
+    "skills": [
+      "SEO",
+      "Content Marketing",
+      "Social Media"
+    ],
+    "description": "Develop and execute marketing strategies to enhance brand presence.",
+    "location": "Hyderabad",
+    "id": 86
+  },
+  {
+    "title": "Database Administrator",
+    "company": "Data Solutions Ltd.",
+    "experience ": 4,
+    "skills": [
+      "SQL",
+      "Database Management",
+      "Performance Tuning"
+    ],
+    "description": "Manage and maintain databases to ensure high availability and performance.",
+    "location": "Mumbai",
+    "id": 87
+  },
+  {
+    "title": "System Analyst",
+    "company": "Tech Savvy Inc.",
+    "experience ": 3,
+    "skills": [
+      "Business Analysis",
+      "System Design",
+      "Requirements Gathering"
+    ],
+    "description": "Analyze and improve IT systems to meet business needs.",
+    "location": "Jaipur",
+    "id": 88
+  },
+  {
+    "title": "Network Engineer",
+    "company": "Networks Plus",
+    "experience ": 5,
+    "skills": [
+      "Networking",
+      "Cisco",
+      "Troubleshooting"
+    ],
+    "description": "Design, implement, and manage network infrastructure.",
+    "location": "Bangalore",
+    "id": 89
+  },
+  {
+    "title": "Content Writer",
+    "company": "Content Creators Hub",
+    "experience ": 2,
+    "skills": [
+      "Writing",
+      "Editing",
+      "SEO"
+    ],
+    "description": "Create and edit content for websites, blogs, and marketing materials.",
+    "location": "Jaipur",
+    "id": 90
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "Web Wonders Ltd.",
+    "experience ": 3,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "description": "Build and optimize the front-end of web applications.",
+    "location": "Mumbai",
+    "id": 91
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Tech Solutions Inc.",
+    "experience ": 4,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "API Development"
+    ],
+    "description": "Develop and maintain server-side logic and databases.",
+    "location": "Mumbai",
+    "id": 92
+  },
+  {
+    "title": "Sales Manager",
+    "company": "Sales Growth LLC",
+    "experience ": 6,
+    "skills": [
+      "Sales Strategies",
+      "Client Management",
+      "Negotiation"
+    ],
+    "description": "Lead and manage the sales team to achieve targets.",
+    "location": "Jaipur",
+    "id": 93
+  },
+  {
+    "title": "Human Resources Coordinator",
+    "company": "People First Ltd.",
+    "experience ": 3,
+    "skills": [
+      "Recruitment",
+      "Employee Relations",
+      "HR Policies"
+    ],
+    "description": "Coordinate HR activities including recruitment and employee relations.",
+    "location": "Hyderabad",
+    "id": 94
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "Creative Arts Agency",
+    "experience ": 2,
+    "skills": [
+      "Adobe Photoshop",
+      "Illustrator",
+      "Design"
+    ],
+    "description": "Create visual content for print and digital media.",
+    "location": "Jaipur",
+    "id": 95
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "Finance Experts Inc.",
+    "experience ": 4,
+    "skills": [
+      "Financial Modeling",
+      "Excel",
+      "Data Analysis"
+    ],
+    "description": "Analyze financial data to support decision-making.",
+    "location": "Kolkata",
+    "id": 96
+  },
+  {
+    "title": "Customer Support Specialist",
+    "company": "Help Desk Solutions",
+    "experience ": 2,
+    "skills": [
+      "Customer Service",
+      "Problem Solving",
+      "Communication"
+    ],
+    "description": "Provide support to customers and resolve issues.",
+    "location": "Chennai",
+    "id": 97
+  },
+  {
+    "title": "Business Development Manager",
+    "company": "Growth Partners Ltd.",
+    "experience ": 5,
+    "skills": [
+      "Business Strategy",
+      "Market Research",
+      "Partnerships"
+    ],
+    "description": "Identify and develop business opportunities and partnerships.",
+    "location": "Mumbai",
+    "id": 98
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudTech Solutions",
+    "experience ": 4,
+    "skills": [
+      "CI/CD",
+      "Docker",
+      "Kubernetes"
+    ],
+    "description": "Implement and manage DevOps practices and tools.",
+    "location": "Bangalore",
+    "id": 99
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "TechHelp Inc.",
+    "experience ": 2,
+    "skills": [
+      "Technical Support",
+      "Networking",
+      "Troubleshooting"
+    ],
+    "description": "Provide technical support and resolve IT issues.",
+    "location": "Chennai",
+    "id": 100
+  },
+  {
+    "title": "Operations Manager",
+    "company": "Operational Excellence Ltd.",
+    "experience ": 5,
+    "skills": [
+      "Operations Management",
+      "Process Improvement",
+      "Team Leadership"
+    ],
+    "description": "Manage and improve operational processes and team performance.",
+    "location": "Ahmedabad",
+    "id": 101
+  },
+  {
+    "title": "Web Designer",
+    "company": "Web Design Studio",
+    "experience ": 3,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design"
+    ],
+    "description": "Design and create aesthetically pleasing and functional websites.",
+    "location": "Delhi",
+    "id": 102
+  },
+  {
+    "title": "Legal Advisor",
+    "company": "Legal Consultants Ltd.",
+    "experience ": 6,
+    "skills": [
+      "Legal Research",
+      "Contract Law",
+      "Compliance"
+    ],
+    "description": "Provide legal advice and ensure compliance with regulations.",
+    "location": "Bangalore",
+    "id": 103
+  }
+]

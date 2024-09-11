@@ -1,0 +1,418 @@
+[
+  {
+    "label": "Problem-solving",
+    "value": "problem-solving"
+  },
+  {
+    "label": "Analytical thinking",
+    "value": "analytical thinking"
+  },
+  {
+    "label": "Logical reasoning",
+    "value": "logical reasoning"
+  },
+  {
+    "label": "Creativity",
+    "value": "creativity"
+  },
+  {
+    "label": "Technical writing",
+    "value": "technical writing"
+  },
+  {
+    "label": "Communication",
+    "value": "communication"
+  },
+  {
+    "label": "Collaboration",
+    "value": "collaboration"
+  },
+  {
+    "label": "Teamwork",
+    "value": "teamwork"
+  },
+  {
+    "label": "Time management",
+    "value": "time management"
+  },
+  {
+    "label": "Project management",
+    "value": "project management"
+  },
+  {
+    "label": "Attention to detail",
+    "value": "attention to detail"
+  },
+  {
+    "label": "Adaptability",
+    "value": "adaptability"
+  },
+  {
+    "label": "Flexibility",
+    "value": "flexibility"
+  },
+  {
+    "label": "Continuous learning",
+    "value": "continuous learning"
+  },
+  {
+    "label": "Passion for technology",
+    "value": "passion for technology"
+  },
+  {
+    "label": "Software development",
+    "value": "software development"
+  },
+  {
+    "label": "Programming languages (e.g., Python, Java, JavaScript)",
+    "value": "programming languages (e.g., python, java, javascript)"
+  },
+  {
+    "label": "Data analysis",
+    "value": "data analysis"
+  },
+  {
+    "label": "Data visualization",
+    "value": "data visualization"
+  },
+  {
+    "label": "Machine learning",
+    "value": "machine learning"
+  },
+  {
+    "label": "Artificial intelligence",
+    "value": "artificial intelligence"
+  },
+  {
+    "label": "Cloud computing",
+    "value": "cloud computing"
+  },
+  {
+    "label": "DevOps",
+    "value": "devops"
+  },
+  {
+    "label": "Agile methodologies",
+    "value": "agile methodologies"
+  },
+  {
+    "label": "Database management",
+    "value": "database management"
+  },
+  {
+    "label": "SQL",
+    "value": "sql"
+  },
+  {
+    "label": "NoSQL databases",
+    "value": "nosql databases"
+  },
+  {
+    "label": "Data modeling",
+    "value": "data modeling"
+  },
+  {
+    "label": "Data mining",
+    "value": "data mining"
+  },
+  {
+    "label": "Data cleaning",
+    "value": "data cleaning"
+  },
+  {
+    "label": "Data governance",
+    "value": "data governance"
+  },
+  {
+    "label": "Data security",
+    "value": "data security"
+  },
+  {
+    "label": "Cybersecurity",
+    "value": "cybersecurity"
+  },
+  {
+    "label": "Network security",
+    "value": "network security"
+  },
+  {
+    "label": "Application security",
+    "value": "application security"
+  },
+  {
+    "label": "Ethical hacking",
+    "value": "ethical hacking"
+  },
+  {
+    "label": "User experience (UX) design",
+    "value": "user experience (ux) design"
+  },
+  {
+    "label": "User interface (UI) design",
+    "value": "user interface (ui) design"
+  },
+  {
+    "label": "Human-computer interaction (HCI)",
+    "value": "human-computer interaction (hci)"
+  },
+  {
+    "label": "Web development",
+    "value": "web development"
+  },
+  {
+    "label": "Mobile app development",
+    "value": "mobile app development"
+  },
+  {
+    "label": "Full-stack development",
+    "value": "full-stack development"
+  },
+  {
+    "label": "Front-end development",
+    "value": "front-end development"
+  },
+  {
+    "label": "Back-end development",
+    "value": "back-end development"
+  },
+  {
+    "label": "Version control (e.g., Git)",
+    "value": "version control (e.g., git)"
+  },
+  {
+    "label": "Testing and quality assurance",
+    "value": "testing and quality assurance"
+  },
+  {
+    "label": "Software testing",
+    "value": "software testing"
+  },
+  {
+    "label": "Unit testing",
+    "value": "unit testing"
+  },
+  {
+    "label": "Integration testing",
+    "value": "integration testing"
+  },
+  {
+    "label": "System testing",
+    "value": "system testing"
+  },
+  {
+    "label": "Performance testing",
+    "value": "performance testing"
+  },
+  {
+    "label": "Security testing",
+    "value": "security testing"
+  },
+  {
+    "label": "Automation testing",
+    "value": "automation testing"
+  },
+  {
+    "label": "JavaScript",
+    "value": "javascript"
+  },
+  {
+    "label": "Python",
+    "value": "python"
+  },
+  {
+    "label": "Java",
+    "value": "java"
+  },
+  {
+    "label": "C++",
+    "value": "c++"
+  },
+  {
+    "label": "C#",
+    "value": "c#"
+  },
+  {
+    "label": "Ruby",
+    "value": "ruby"
+  },
+  {
+    "label": "PHP",
+    "value": "php"
+  },
+  {
+    "label": "Go",
+    "value": "go"
+  },
+  {
+    "label": "Swift",
+    "value": "swift"
+  },
+  {
+    "label": "Kotlin",
+    "value": "kotlin"
+  },
+  {
+    "label": "TypeScript",
+    "value": "typescript"
+  },
+  {
+    "label": "Dart",
+    "value": "dart"
+  },
+  {
+    "label": "Scala",
+    "value": "scala"
+  },
+  {
+    "label": "Haskell",
+    "value": "haskell"
+  },
+  {
+    "label": "Rust",
+    "value": "rust"
+  },
+  {
+    "label": "SQL",
+    "value": "sql"
+  },
+  {
+    "label": "NoSQL",
+    "value": "nosql"
+  },
+  {
+    "label": "HTML",
+    "value": "html"
+  },
+  {
+    "label": "CSS",
+    "value": "css"
+  },
+  {
+    "label": "React",
+    "value": "react"
+  },
+  {
+    "label": "Angular",
+    "value": "angular"
+  },
+  {
+    "label": "Vue",
+    "value": "vue"
+  },
+  {
+    "label": "Node.js",
+    "value": "node.js"
+  },
+  {
+    "label": "Express.js",
+    "value": "express.js"
+  },
+  {
+    "label": "Django",
+    "value": "django"
+  },
+  {
+    "label": "Flask",
+    "value": "flask"
+  },
+  {
+    "label": "Laravel",
+    "value": "laravel"
+  },
+  {
+    "label": "Spring Boot",
+    "value": "spring boot"
+  },
+  {
+    "label": "ASP.NET",
+    "value": "asp.net"
+  },
+  {
+    "label": "Flutter",
+    "value": "flutter"
+  },
+  {
+    "label": "React Native",
+    "value": "react native"
+  },
+  {
+    "label": "SwiftUI",
+    "value": "swiftui"
+  },
+  {
+    "label": "Android development",
+    "value": "android development"
+  },
+  {
+    "label": "iOS development",
+    "value": "ios development"
+  },
+  {
+    "label": "Web development",
+    "value": "web development"
+  },
+  {
+    "label": "Mobile app development",
+    "value": "mobile app development"
+  },
+  {
+    "label": "Full-stack development",
+    "value": "full-stack development"
+  },
+  {
+    "label": "Front-end development",
+    "value": "front-end development"
+  },
+  {
+    "label": "Back-end development",
+    "value": "back-end development"
+  },
+  {
+    "label": "Data structures and algorithms",
+    "value": "data structures and algorithms"
+  },
+  {
+    "label": "Object-oriented programming (OOP)",
+    "value": "object-oriented programming (oop)"
+  },
+  {
+    "label": "Functional programming",
+    "value": "functional programming"
+  },
+  {
+    "label": "Design patterns",
+    "value": "design patterns"
+  },
+  {
+    "label": "Version control (Git)",
+    "value": "version control (git)"
+  },
+  {
+    "label": "Debugging",
+    "value": "debugging"
+  },
+  {
+    "label": "Testing",
+    "value": "testing"
+  },
+  {
+    "label": "Problem-solving",
+    "value": "problem-solving"
+  },
+  {
+    "label": "Algorithm design",
+    "value": "algorithm design"
+  },
+  {
+    "label": "Data analysis",
+    "value": "data analysis"
+  },
+  {
+    "label": "Machine learning",
+    "value": "machine learning"
+  },
+  {
+    "label": "Artificial intelligence",
+    "value": "artificial intelligence"
+  }
+]
